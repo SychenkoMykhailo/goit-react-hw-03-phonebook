@@ -1,0 +1,9 @@
+.form{
+	font-size: 1.3rem;
+}
+.btn{
+	margin-top: 0.5rem;
+	width: 10rem;
+	height: 2rem;
+	cursor: pointer;
+}
